@@ -13,9 +13,11 @@ Welcome to the Tic-Tac-Toe game! This is a simple yet engaging Android applicati
 ## Screenshots
 
 
-<img src="./screenshots/1.jpg"  width="150">
-<img src="./screenshots/2.jpg"  width="150">
-<img src="./screenshots/3.jpg"  width="150">
+<div style="display: flex; justify-content: space-between;">
+  <img src="./screenshots/1.jpg"  width="150">
+  <img src="./screenshots/2.jpg"  width="150">
+  <img src="./screenshots/3.jpg"  width="150">
+</div>
 
 ## Installation
 
@@ -24,7 +26,7 @@ To run this project, you will need to have Android Studio installed on your mach
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/tictactoe.git
+    git clone https://github.com/rushikatabathuni/Tic-Tac-Toe-Kotlin.git
     ```
 
 2. **Open the project in Android Studio:**
