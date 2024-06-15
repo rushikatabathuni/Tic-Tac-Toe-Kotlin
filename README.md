@@ -12,8 +12,9 @@ Welcome to the Tic-Tac-Toe game! This is a simple yet engaging Android applicati
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 1](./screenshots/1.png)
+![Screenshot 2](./screenshots/2.png)
+![Screenshot 2](./screenshots/3.png)
 
 ## Installation
 
